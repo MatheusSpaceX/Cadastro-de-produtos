@@ -27,10 +27,10 @@ create table testematheus(
 ) default charset utf8;
 
 INSERT INTO Produto VALUES
-(null, 'opa', 'bora la'),
+(null, 'opa', '1'),
 (null, 'maça', '7'),
 (null, 'maça', '7'),
-(null, 'me aprova', 'prf'),
-(null, 'to a muito tempo', 'tentando mt'),
-(null, 'pronto', 'ja chega'),
-(null, 'cabei', 'partiu');
+(null, 'me aprova', '6'),
+(null, 'to a muito tempo', '4'),
+(null, 'pronto', '9'),
+(null, 'cabei', '10');
